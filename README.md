@@ -62,8 +62,8 @@ private String password = "tu_contraseña";  // Cambia por tu contraseña
 
 ### 👤 1. Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/nombre-del-repositorio.git
-cd nombre-del-repositorio
+git clone git clone https://github.com/usuario/nombre-del-repositorio.git
+cd vetcare
 ```
 
 ### 📝 2. Compilar el proyecto con Maven
